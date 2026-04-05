@@ -4,7 +4,7 @@
 
 This repository contains the supplementary materials for Submission ID 149 to the ACM MM 2026 Dataset Track.
 
-### Contents
+## 📦 Contents
 
 1. **Supplementary Material**  
    `ACM2026_Submission_149_appendix.pdf` provides additional details of ObsDriveBench, including dataset statistics, data construction pipeline, prompt templates, and qualitative examples.
@@ -20,3 +20,22 @@ This repository contains the supplementary materials for Submission ID 149 to th
 
 4. **Training Data**  
    `Train/` contains training data used for supervised fine-tuning (SFT) and reinforcement learning (RL).
+
+## 🚀 Release
+
+The baseline models **ObsDrive-SFT** and **ObsDrive-RL** are available on Hugging Face:
+
+👉 [**ObsDrive**](https://huggingface.co/russellyq/ObsDrive)
+
+---
+
+
+## 📄 License
+
+(To be updated)
+
+---
+
+## 📚 Citation
+
+(To be added)
