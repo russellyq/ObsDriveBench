@@ -23,6 +23,10 @@ This repository contains the supplementary materials for Submission ID 149 to th
 
 ## 🚀 Release
 
+The full raw data is available on Hugging Face:
+
+👉 [**ObsDriveBench**](https://huggingface.co/datasets/russellyq/ObsDriveBench)
+
 The baseline models **ObsDrive-SFT** and **ObsDrive-RL** are available on Hugging Face:
 
 👉 [**ObsDrive**](https://huggingface.co/russellyq/ObsDrive)
